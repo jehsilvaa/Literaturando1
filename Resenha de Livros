@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8"/>
+<title>Literaturando</title>
+
+<style>
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: #008598;
+    clear: left;
+    text-align: center;
+    
+    
+}
+ 
+}
+body{
+    background-color: white;
+}
+p{
+    text-align:justify;
+    text-indent:2px;
+    
+}
+ img{
+     whidth:85%;
+     img-align: center;
+ }
+
+
+   h2{ 
+       font-family:Arial;
+       font size :30pt;
+       color:#808080;
+       text-align: center;
+   }
+   h3{
+       font-family:germany;
+       color:white;
+       text-shadow:2px 2px 8px #000000;
+   }
+    h4{
+        font-family:Arial;
+        font-size:10pt;
+    }
+     h1{
+        font-family:Areal;
+        font-size:35pt;
+        color:white;
+        text-shadow:2px 2px 15px #000000;
+        text-align: center;
+    }
+    div#menu{
+        display: inline block;
+    }
+    
+    }
+    div#menu ul{
+        
+        
+       
+    }
+   div#menu li{
+        
+        list-style:none;
+       
+        
+        
+    }
+    }
+    
+div.container {
+    width: 95%%;
+    border: 7px solid gray;
+  
+    }
+}
+
+header, footer {
+    padding: 1em;
+    color: black;
+    background-color: orange;
+    clear: left;
+    
+}
+
+nav {
+    float: left;
+    max-width: 10px;
+    margin: 2;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 0px;
+    border-left: 2px solid gray;
+    padding: 2em;
+    overflow: hidden;
+}
+</style>
+</head>
+<body>
+
+<div id="cabecalho">
+
+<header>
+<hgroup>
+   <h1>Literaturando</h1>
+   
+      
+      <ul type="circle">
+      <div id=menu>
+       
+          
+   <li><a href="paginainicial.html"><h3>P?gina Inicial</h3></a></li>
+   
+   
+    <li><a href="paginaResenhas.html"><h3>Resenhas de Livros</h3></a></li>
+    
+    
+   <li><a href="paginafilmes.html"><h3>Resenha de Filmes</h3></a></li>
+   
+   
+   
+   
+</ul>
+</div>
+  </hgroup>
+</header>
+  
+
+<article>
+  <h2><u>Resenha do Livro Inc?ndio de Tr?ia</u></h2>
+  </br></br>
+  <figure>
+  <img src="https://2.bp.blogspot.com/-rNugYc5u9jQ/V55rCamTwrI/AAAAAAAAAsg/zjWbg2CF9G4gMLq58nNf7x21kCJKJhHyQCLcB/s400/incendio.jpg"widhith: />
+  <figcapition>
+      <p style="text-align:center;">Inc?ndio de Tr?ia</p>
+      
+  </figcapition>
+  </figure>
+  </br></br>
+  <p><h2> O inc?ncdio de Tr?ia( The Firebrand )</h2></p>
+
+<p>Escritora: Marion Zimmer Bradley</p>
+
+<p>p?ginas: 520</p>
+
+<p>Editora: Imago</p>
+
+
+<p style="text-align:justify;">&nbsp;&nbsp;RESUMO: Em O Inc?ndio de Troia, Marion Zimmer Bradley, autora de As Brumas de Avalon, recria a hist?ria da Guerra de Troia ? e a narra a partir do ponto de vista de Kassandra, bela e atormentada princesa de Troia. Na brilhante recria??o que autora faz da famosa lenda, a queda de Troia acontece de uma forma nova e ousada, desde a prova??o de P?ris, o rapto de Helena (neste livro, n?o a cruel ad?ltera da lenda, mas uma mulher afetuosa, dedicada a P?ris e aos filhos) e a convoca??o dos ex?rcitos gregos por Agamenon, o enfurecido cunhado de Helena, ? trag?dia final da destrui??o da cidade, condenada pelos deuses ? e pelo orgulho voluntarioso de seus l?deres. A hero?na deste ?pico ? Kassandra, e a forte tens?o do romance prov?m tanto da luta interna desta com seu sentimento de lealdade dividido (pois sua lealdade ao pai, o rei, e aos irm?os ? contraposta ? crescente fidelidade ? velha f? no matriarcado e na M?e Terra) quanto do s?rio conflito entre gregos e troianos, no qual ela ? aben?oada, ou amaldi?oada, que ? com o poder da profecia ? prev? de forma obsessiva que tudo aquilo que mais ama ser? destru?do. O romance come?a com o nascimento de Kassandra e de seu irm?o g?meo P?ris. Este ? criado por uma fam?lia de pastores, em virtude de uma profecia de que g?meos trazem m? sorte. Kassandra cresce sem sequer saber da exist?ncia do irm?o ? a n?o ser pelas vis?es inexplic?veis em que enxerga os ventos atrav?s dos olhos dele... Sua m?e, a rainha H?cuba, era uma amazona antes de se casar, e quando Kassandra est? prestes a se tornar mulher, ? enviada para passar um ano com as tribos das amazonas, onde toma conhecimento dos poderes das mulheres antes que estas fossem subjugadas por uma nova onda de patriarcado. Ao voltar para Troia, Kassandra dedica-se a tornar-se sacerdotisa de Apolo, o Deus-Sol; mas, dentro dela, desenvolve-se um conflito forte e perturbador entre os ?velhos costumes?, em que as mulheres mandavam e a religi?o originava-se da M?e Terra, e o novo mundo de deuses e reis do sexo masculino ? um mundo caracterizado por disputas sem sentido e uma ?nsia de sangue que levam ao cerco de sua amada cidade</p>
+<p style="text-align:justify;">&nbsp;&nbsp;Neste livro Marion nos narra um romance hist?rico pelo ponto de vista de Kassandra  irm? g?mea de P?ris,  filha do rei Priamo e a rainha H?cuba e irm? de Heitor, ela quando pequena ouviu o chamado de Apolo Deus do Sol e desde ent?o ela tem vis?es perturbadoras da desctru???o de sua cidade natal, quando mais jovem come?ou a sua prepara??o para ser uma sacerdotiza ,mesmo contrariando a vontade de seu pai que queria de todas as formas torna l? submissa assim como as mulheres Troianas, mas sua m?e H?cuba percebendo o seu forte gens nela, H?cuba mandou Kassandra para ficar um tempo na tribo das amazonas, onde sua m?e fora criada, Kassandra se afei?ou as armas e combates alimentando  mais a sua certeza de que mulher alguma nascer? apen?s para ser mandada, apo?s este tempo na tribo ela ter? que retornar para tr?ia para enfrentar seu pai e terminar sua forma??o como sacerdotiza, por?m nesta ?poca a guerra j? se aprox?ma de sua cidade, atrav?s da vida corrida da jovem e sacerdotisa Kassandra Marion mostra a luta das mulheres contra a sociedade machista ela faz uma releitura da guerra de Tr?ia ( atualmente Turquia) .</p>
+<p style="text-align:justify;">&nbsp;&nbsp;A  est?ria ? marcada com o passar do tempo na vida de Kassandra  o inic?o do livro aborada mais a vida da personagem principal, o segundo tempo quando Kassandra retorna para sua casa ? contado o inicio do conflito e o terceiro e ?ltimo tempo que marca a p?s guerra  ? marcado por uma nova fase na vida de Kassandra.</p>
+
+
+<img src="https://2.bp.blogspot.com/-3WifMyOA1pc/V55slAKZeeI/AAAAAAAAAss/kSQsZFiVdhwTw5xva10O_HKCtjHQLVYRgCLcB/s320/incendio1.jpg"/>
+
+ 
+  </br></br>
+  
+  ****************************************************************************
+  
+  
+  <h2>Em Busca de Her?is Morgam Rice</h2>
+  
+  <img src="https://2.bp.blogspot.com/-KmVuSwYVMgE/WIlDBM7NYwI/AAAAAAAABkg/tnBhED2ws5MpvHOgNsGIAXjEEfAZCMC5ACLcB/s400/em%2Bbusca%2Bde%2Bherois.jpg">
+  
+ </br>
+  <p style="text-align:justify;">&nbsp;&nbsp; Fiquei estaguinada, bom para inic?o eu n?o sabia se realmente valeria a pena ler este livro, afinal eu nunca ouvir? falar sobre ele, mas... foi uma hist?ria surpreendente, cheia de a??o do inic?o at? o fim, e como Morgan Rice gosta de fazer em suas obras, ela tem um fim surpreendente que desperta cada vez mais a curiosidade do leitor, for?ando o a adicionar o T?tulo de suas obras na lista de livros para compor a sua estante .</p>
+  <p style="text-align:justify;">&nbsp;&nbsp;O livro narra a hist?ria da vida de Thor um rapaz simples por fora e que for? criado em uma vida simples, e que nunca for? respeitado por seu pai e seus irm?os, mas... ele ? dono de um dom sobrenatural que ir? se intensificar a cada perigo que ele enfrentar? em seu caminho, ? dono tamb?m de um espirito destemivel, um espir?to de guerreiro, seu sonho ? fazer parte da Legi?o do Rei, e como ele n?o fora selecionado para tal, ele ent?o correu atr?s de seu sonho, afim de se fazer ser selecionado, desde ent?o sua vida toma um rumo cada vez mais intenso e  promissor, mas ser? que tudo continuar? sempre perfeito em sua nova vida?</p>
+  <p style="text-align:justify;">&nbsp;&nbsp;  Em sua jornada Thor faz inimigos e grandes amigos,Recee o filho do rei, O`Connor e Eldem, assim como tamb?m o bravo guerreiro,  Erec, o passado de Thor ? um mist?rio, onde somente o dru?nda do rei (Mago) Argor paresce ter conhecimento, pois nem Thor  e nem o leitor tem conhecimento de sua m?e.</p>
+   <p style="text-align:justify;">&nbsp;&nbsp;Thor ao inicio de tudo ? apenas um rapaz de 14 anos que procura aceita??o e que luta para alcansar o seu sonho que ? ser um soldado da Legi?o do rei o ex?rcito Prata, mas paresce que o destino lhe reserva muito mais do que a sua mera expectativa e vontade, no livro temos algumas amostras de seu poder pois Thor parece ter o dom de um dru?da, mas al?m disso, ele nasceu com o espir?to de um guerreiro, autoridades conspir?o contra ele, assim como algumas conspir?o a favor, e ele ? apen?s um garoto... o que o destino lhe reserva? </p>
+  <p style="text-align:justify;">&nbsp;&nbsp; Eu n?o digo que indico ou n?o indico esse livo, embora eu tenha notado uma pequena falha, como o filhote de leopardo de Thor que por duas ou tr?s vezes parece sumir da hist?ria, confesso que eu ficava preocupada com o pobre animalzinho (risos), pois me perguntava de ele estaria bem e se alguma vez retornaria a trama (risos), fora este detalhe o livro ? muito bom, lhe fornece informa??o o suficiente para uma imagina??o fertil, que claro todo leitor costumar, sim?</p>
+
+   <p style="text-align:justify;">&nbsp;&nbsp;Achei estremamente interessante uma das conversas que Erec e Thor tiveram na trama gostaria de deixar uma parte aqui para voc?:</p>
+   <p><b>" Erec:</b></p>
+<p style="text-align:justify;"><b>&nbsp;&nbsp;- Optei por abriga-lo de baixo de minha asa por uma raz?o.Voc? n?o ? como os outros voc? tem um destino maior(...) voc? n?o deve da lo por sentado, voc? deve trabalhar nele para ser um grande guerreiro, voc? n?o deve ser destemido e apen?s qualificado.Voc? deve ter o espirito de um guerreiro e seguir sempre o seu cora??o e sua mente, voc? deve estar disposto a dar a sua vida por outros, o maior cavaleiro n?o busca s? riquezas, honra, fama ou gl?ria. O maior cavaleiro segue em busca do mais dific?l de tudo: Segue em busca de se tornar uma pessoa melhor.(...) voc? deve buscar defender a causa daqueles que s?o inferiores a voc?. Voc? deve defender aqueles que n?o podem defender a sim mesmos.N?o ? uma miss?o para um cora??o fraco. ? uma busca de her?is.</p></b>
+   <p style="text-align:justify;"><b>&nbsp;&nbsp;A mente de Thor girava enquanto ele processava tudo, ponderando as palavras de Erec cuidadosamente.(...)"</p></b>
+</article>
+<video controls=?true? autoplay=?true? width=?400? height=?300?>
+ <source src="https://www.youtube.com/watch?v=RkYRWDDJPZA? />
+ <p>Fa?a o <a href=?u.mp4?>download do v?deo</a>.</p>
+</video>
+
+<footer>Literaturando.com</footer>
+
+</div>
+
+</body>
