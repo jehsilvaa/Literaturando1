@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<head>
+<meta charset="UTF-8"/>
+<title>Literaturando</title>
+
+<style>
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: #008598;
+    clear: left;
+    text-align: center;
+    
+    
+}
+ 
+}
+body{
+    background-color: white;
+}
+p{
+    text-align:justify;
+    text-indent:2px;
+    
+}
+ img{
+     whidth:85%;
+     img-align: center;
+ }
+
+
+   h2{ 
+       font-family:Arial;
+       font size :30pt;
+       color:#808080;
+       text-align: center;
+   }
+   h3{
+       font-family:germany;
+       color:white;
+       text-shadow:2px 2px 8px #000000;
+   }
+    h4{
+        font-family:Arial;
+        font-size:10pt;
+    }
+     h1{
+        font-family:Areal;
+        font-size:35pt;
+        color:white;
+        text-shadow:2px 2px 15px #000000;
+        text-align: center;
+    }
+    div#menu{
+        display: inline block;
+    }
+    
+    }
+    div#menu ul{
+        
+        
+       
+    }
+   div#menu li{
+        
+        list-style:none;
+       
+        
+        
+    }
+    }
+    
+div.container {
+    width: 95%%;
+    border: 7px solid gray;
+  
+    }
+}
+
+header, footer {
+    padding: 1em;
+    color: black;
+    background-color: orange;
+    clear: left;
+    
+}
+
+nav {
+    float: left;
+    max-width: 10px;
+    margin: 2;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 0px;
+    border-left: 2px solid gray;
+    padding: 2em;
+    overflow: hidden;
+}
+</style>
+</head>
+<body>
+
+<div id="cabecalho">
+
+<header>
+<hgroup>
+   <h1>Literaturando</h1>
+   
+      
+      <ul type="circle">
+      <div id=menu>
+       
+          
+   <li><a href="/desktop/paginainicial.html"><h3>Pagina Inicial</h3></a></li>
+   
+   
+    <li><a href="desktop/paginaResenhas.html"><h3>Resenhas de Livros</h3></a></li>
+    
+    
+   <li><a href="desktop/pagina filmes.html"><h3>Resenha de Filmes</h3></a></li>
+ 
+   
+</ul>
+</div>
+  </hgroup>
+</header>
+  
+
+<article>
+  <h2><u>PARCEIRA ALICANTO</u></h2>
+  <figure>
+  <img src="https://1.bp.blogspot.com/-0nbngZjpt7s/WLcDqyl_tZI/AAAAAAAABuY/gW9t4deg1fQKQbJto8GZtNtgh9vaM4iVwCLcB/s1600/banner%2Bsite.jpg" alt= "Moutain View" style=whidth="1000" heigth: "400"/>
+  <figcapition>
+      <p style="text-align:center;">Nossa Mais Nova Editora Parceira!</p>
+      
+  </figcapition>
+  </figure>
+  </br></br>
+  <p style="text-align:justify;">&nbsp;&nbsp; com muito louvor e felicidade que anunciamos a nossa nova parceira 2017, a <a href="http://www.editoraalicanto.com.br/">editora Alicanto</a>. com muito gosto que anuncio que nossa parceria trara a voce querido leitor muitas novidades, lan?amentos, eventos, entrevistas, tudo que a editora tem a oferecer em nossa parceria que ? muito bem quista.</p>
+   <p style="text-align:justify;">&nbsp;&nbsp;Convido a voc? grande leitor a conhecer um pouco da editora Alicanto(texto extra?do do site da pr?pria editora) :</p>
+
+  <p style="text-align:justify;">"  Editora Alicanto,  uma nova editora com um antigo objetivo ; Publicar bons livros.
+   O Alicanto ? uma ave m?tica do deserto do Atacama que se alimenta de ouro. N?o poderia ser outro nosso nome, j? que o alimento da Editora Alicanto tamb?m ? um tesouro precioso; a boa literatura.  E assim s?o nossos livros, tesouros liter?rios que enriquecem a mente e alimentam a alma.
+   Apesar de novos, chegamos ao mercado com fome dos maiores tesouros que pudermos encontrar ,intr?nseco a um antigo ideal: publicar bons livros. N?o vemos o livro meramente como um produto, mas como uma pe?a de arte, uma pequena revolu??o que pode encantar ,transformar mentes e cora??es. Sob um modelo de publica??o tradicional, investimos em obras que merecem e que valem a pena ser levadas ao p?blico leitor, recebendo  de mente aberta  toda e qualquer forma de originalidade editorial,tesouros liter?rios que enriquecem a mente e alimentam a alma."</p>
+   
+  <a><p> <video controls=?true? autoplay=?true? width=?400? height=?300?>
+ <source src="https://www.youtube.com/watch?v=S2QaFPBe-cE?></a></p>
+</video>
+
+   </br></br></br>
+  <h2><u>A Conversa do ?nibus</u></h2>
+   <p><h4><i>Um Conto de J?ssica da Silva</i></h4></p>
+   <figure>
+   <img src="_cine-filmes/livros/banner-do-dite-conto.jpg"/>
+</figure>
+
+       <p style="text-align:justify;">&nbsp;&nbsp;Certa vez uma garota, uma adolescente, com problemas de adolecente e a vida agitada de um, estava sentada no banco do ?nibus indo para mais um dia turbulento de muito estudo na faculdade, ela ja muito cansada e esgotada, pois faculdade embora fosse P?blica, n?o ? igual ao Ensino M?dio P?blico, ? extremamente puxada e somente os melhores chegam at? o fim, ela j? estava a ponto de mudar de curso pois o curso que haver? escolhido ter? sim um amplo mercado para garimpar depois de formada, mas este era extremamente dific?l, quando atr?s dela sentou se duas senhoras (uma aparentava sessenta e outra sessenta e tr?s), a garota sem nada a fazer sentada pr?xima a janela e vendo a mesma paisagem passar por ela mais uma vez, resolve escutar atentamente a conversa dessas duas senhoras, pois o que mais ela poderia fazer, ali sentada a espera de sua parada?</p>
+   <p style="text-align:justify;">&nbsp;&nbsp; Ela ent?o escutou a primeira senhora dizer:</p>
+  <p style="text-align:justify;">&nbsp;&nbsp;- Merinda voc? nem sabe...- Suspense- A filha da Rosa conseguiu aquela vaga que ela queria naquela empresa, aquela do chocolote sabe?</p>
+   <p style="text-align:justify;">&nbsp;&nbsp;- N?o me diga!- Comentou a outra espantada e com uma pontada de inveja- A Rosa aquela mulher n?o tem nem onde cair morta, e aquela garotinha, aquela que so vivia com o nariz metido nos livros, e dizia que estava estudando, n?o sabia fazer mais nada, ? delas que voc? est? falando?</p>
+   <p style="text-align:justify;">&nbsp;&nbsp;- Sim, pois eu me lembro, ela nem ? t?o bonita assim despensou o meu filho, imagina o meu menino, porque dizia que estava ocupada de mais para ter algu?m com quem se preocupar.</p>
+     <p style="text-align:justify;">&nbsp;&nbsp; - Como a Rosa deixou essa menina mimada, achando que pode tudo, -Ela bufou- E elas vivem de vender churrasquinho, e aquela menina, eu nunca via ela ajudar a m?e em nada.</p>
+     <p style="text-align:justify;"> &nbsp;&nbsp;- Pois ? eu s? via a Rosa imprimir montantes de papeis para aquela guria, gastavam o que n?o tinham.</p>
+       <p style="text-align:justify;">&nbsp;&nbsp;- Me lembro de conversar uma vez com essa guria, at? que ela parecia simpatica, mas dizia que um dia iria ser alguma coisa de marting ou marking de uma empresa.</p>
+       <p style="text-align:justify;">&nbsp;&nbsp; - ? Marketing, genrente de Markenting eu acho.</p>
+        <p style="text-align:justify;">&nbsp;&nbsp;- Pois ?, vai saber o que isso faz! E voc? est? sabichona n?, sabe at? esses nomes complicados.</p>
+        <p style="text-align:justify;">&nbsp;&nbsp;- N?o, ? que essa mesma guria se formou nesses estudos que ela fazia, que tamb?m eram dessas mesmas materias, a Rosa me contava toda orgulhosa que as vezes essa menina ficava duas tr?s noites sem dormir, e passava os dias na faculdade, porque dizia que estava estudando.</p>
+      <p style="text-align:justify;">&nbsp;&nbsp;- Imagina s?, era para ter escolhido algo mais facil, mas parece que ela adora se isibir n?? Vem com aquela simpatia cheia de conversas complicadas, se achando mais do que a gente, mas ent?o me conta ela es? fazendo o que nessa empresa do chocolate?E a Rosa? Eu n?o a vi mais.</p>
+     <p style="text-align:justify;">&nbsp;&nbsp;&nbsp; Depois de puxar um pouco pela mem?ria a outra senhora responde:</p>
+      <p style="text-align:justify;">&nbsp;&nbsp; - Me lembrei o nome daquela empresa e a Nestl?, e ela ? gerente de Marketing l?, a Rosa estava mal no hospital mas a filha dela essa dos estudos, estava no hospital e na faculdade toda hora, depois a Rosa morreu.</p>
+      <p style="text-align:justify;">&nbsp;&nbsp; A senhora chamada Merinda solta um aaa de exclama??o, e fala:</p>
+      <p style="text-align:justify;">&nbsp;&nbsp;- Coitada da Rosa, garanto que essa menina teve sua cota de culpa, n?o ajudava a m?e em nada.E agora trabalhando aonde quer essa  guria vai se isibir bem mais agora, Rosa n?o colocava freio nessa garota n??</p>
+    <p style="text-align:justify;">&nbsp;&nbsp; A garota que escutava atentamente a conversa, notou que sua hora de descer do onibus havia chegado, com a conversa que acabar? de houvir, ela sentiu se mais animada para o seu dia na faculdade, pois perceber que pessoas com menos condi??es financeiras que ela havia lutado contra tudo e todos para alcan?ar os pr?prios sonhos, e ela estava no caminho certo para alcan?ar o seus, e sim, sempre existir?o essas pessoas nas quais, semprem ir?o olhar torto para ela, mas isso n?o ser? motivo para desistir, mas sim, persistir cada vez mais. </p>
+</article>
+
+<footer>Literaturando.com</footer>
+
+</div>
+
+</body>
+</html>
