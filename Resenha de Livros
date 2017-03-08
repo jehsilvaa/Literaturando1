@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Literaturando</title>
-
 <style>
 header, footer {
     padding: 1em;
@@ -28,8 +27,6 @@ p{
      whidth:85%;
      img-align: center;
  }
-
-
    h2{ 
        font-family:Arial;
        font size :30pt;
@@ -77,7 +74,6 @@ div.container {
   
     }
 }
-
 header, footer {
     padding: 1em;
     color: black;
@@ -85,14 +81,12 @@ header, footer {
     clear: left;
     
 }
-
 nav {
     float: left;
     max-width: 10px;
     margin: 2;
     padding: 1em;
 }
-
 nav ul {
     list-style-type: none;
     padding: 0;
@@ -101,7 +95,6 @@ nav ul {
 nav ul a {
     text-decoration: none;
 }
-
 article {
     margin-left: 0px;
     border-left: 2px solid gray;
@@ -111,7 +104,6 @@ article {
 </style>
 </head>
 <body>
-
 <div id="cabecalho">
 
 <header>
@@ -139,7 +131,6 @@ article {
   </hgroup>
 </header>
   
-
 <article>
   <h2><u>Resenha do Livro Incêndio de Tróia</u></h2>
   </br></br>
@@ -152,14 +143,9 @@ article {
   </figure>
   </br></br>
   <p><h2> O incêncdio de Tróia( The Firebrand )</h2></p>
-
 <p>Escritora: Marion Zimmer Bradley</p>
-
-<p>p?ginas: 520</p>
-
+<p>páginas: 520</p>
 <p>Editora: Imago</p>
-
-
 <p style="text-align:justify;">&nbsp;&nbsp;>RESUMO: Em O Incêndio de Troia, Marion Zimmer Bradley, autora de As Brumas de Avalon, recria a história da Guerra de Troia – e a narra a partir do ponto de vista de Kassandra, bela e atormentada princesa de Troia. Na brilhante recriação que autora faz da famosa lenda, a queda de Troia acontece de uma forma nova e ousada, desde a provação de Páris, o rapto de Helena (neste livro, não a cruel adúltera da lenda, mas uma mulher afetuosa, dedicada a Páris e aos filhos) e a convocação dos exércitos gregos por Agamenon, o enfurecido cunhado de Helena, à tragédia final da destruição da cidade, condenada pelos deuses – e pelo orgulho voluntarioso de seus líderes. A heroína deste épico é Kassandra, e a forte tensão do romance provém tanto da luta interna desta com seu sentimento de lealdade dividido (pois sua lealdade ao pai, o rei, e aos irmãos é contraposta à crescente fidelidade à velha fé no matriarcado e na Mãe Terra) quanto do sério conflito entre gregos e troianos, no qual ela – abençoada, ou amaldiçoada, que é com o poder da profecia – prevê de forma obsessiva que tudo aquilo que mais ama será destruído. O romance começa com o nascimento de Kassandra e de seu irmão gêmeo Páris. Este é criado por uma família de pastores, em virtude de uma profecia de que gêmeos trazem má sorte. Kassandra cresce sem sequer saber da existência do irmão – a não ser pelas visões inexplicáveis em que enxerga os ventos através dos olhos dele... Sua mãe, a rainha Hécuba, era uma amazona antes de se casar, e quando Kassandra está prestes a se tornar mulher, é enviada para passar um ano com as tribos das amazonas, onde toma conhecimento dos poderes das mulheres antes que estas fossem subjugadas por uma nova onda de patriarcado. Ao voltar para Troia, Kassandra dedica-se a tornar-se sacerdotisa de Apolo, o Deus-Sol; mas, dentro dela, desenvolve-se um conflito forte e perturbador entre os “velhos costumes”, em que as mulheres mandavam e a religião originava-se da Mãe Terra, e o novo mundo de deuses e reis do sexo masculino – um mundo caracterizado por disputas sem sentido e uma ânsia de sangue que levam ao cerco de sua amada cidade. </p>
 <p style="text-align:justify;">&nbsp;&nbsp;> Neste livro Marion nos narra um romance histórico pelo ponto de vista de Kassandra  irmã gêmea de Páris,  filha do rei Priamo e a rainha Hécuba e irmã de Heitor, ela quando pequena ouviu o chamado de Apolo Deus do Sol e desde então ela tem visões perturbadoras da desctruíção de sua cidade natal, quando mais jovem começou a sua preparação para ser uma sacerdotiza ,mesmo contrariando a vontade de seu pai que queria de todas as formas torna lá submissa assim como as mulheres Troianas, mas sua mãe Hécuba percebendo o seu forte gens nela, Hécuba mandou Kassandra para ficar um tempo na tribo das amazonas, onde sua mãe fora criada, Kassandra se afeiçou as armas e combates alimentando  mais a sua certeza de que mulher alguma nascerá apenás para ser mandada, apoós este tempo na tribo ela terá que retornar para tróia para enfrentar seu pai e terminar sua formação como sacerdotiza, porém nesta época a guerra já se aproxíma de sua cidade, através da vida corrida da jovem e sacerdotisa Kassandra Marion mostra a luta das mulheres contra a sociedade machista ela faz uma releitura da guerra de Tróia ( atualmente Turquia).</p>
 <p style="text-align:justify;">&nbsp;&nbsp;> A  estória é marcada com o passar do tempo na vida de Kassandra  o inicío do livro aborada mais a vida da personagem principal, o segundo tempo quando Kassandra retorna para sua casa é contado o inicio do conflito e o terceiro e último tempo que marca a pós guerra  é marcado por uma nova fase na vida de Kassandra.</p>
