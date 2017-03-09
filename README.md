@@ -3,7 +3,7 @@
 <html lang="pt-br">
 <head>
 <meta content='width=device-width, initial-scale=1'name='viewport/>'
-<meta charset="UTF-8"/>
+<meta charset=UTF-8/>
 <title>Literaturando</title>
 
 <style>
